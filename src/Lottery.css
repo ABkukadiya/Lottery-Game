@@ -1,0 +1,32 @@
+.ticket{
+    background-color: rgb(126, 88, 88);
+    border:1px solid rgb(13, 13, 13);
+    border-radius: 12px;
+    width: auto;
+    height: 120px;
+    font-size: 25px;
+    margin-left: auto;
+    margin-bottom: 1rem;
+    /* padding-top: 1.4rem; */
+}
+
+.num{
+    background-color: rgb(212, 164, 164);
+    border:1px solid rgb(13, 13, 13);
+    border-radius: 12px; 
+    padding: 0.5rem;
+    margin:0 0.5rem
+}
+
+.button{
+    background-color: rgb(126, 88, 88);
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 12px;
+    color:rgb(240, 207, 207);
+}
+
+.text{
+    height: 25px;
+    margin-top:1rem ;
+}
