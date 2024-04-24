@@ -4,7 +4,7 @@
 # How It Works  
 * When a user purchases a ticket, the game generates a random 4-digit number. If the user's ticket matches the generated number under certain conditions, they win; otherwise, they're encouraged to try again next time.
 
-# Game Rules : 
+# Game Rules 
 * Each ticket purchased generates a unique 4-digit number.
 * If the user's number matches the generated number and meets specific conditions, they win.
 * Conditions for winning may vary and are implemented within the code.
