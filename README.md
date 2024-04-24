@@ -1,8 +1,8 @@
-Lottery Game : 
-Welcome to the Lottery Game repository! This project is a simple lottery game where users can purchase tickets and stand a chance to win by matching a randomly generated 4-digit number.
+# Lottery Game 
+*Welcome to the Lottery Game repository! This project is a simple lottery game where users can purchase tickets and stand a chance to win by matching a randomly generated 4-digit number.
 
-How It Works : 
-When a user purchases a ticket, the game generates a random 4-digit number. If the user's ticket matches the generated number under certain conditions, they win; otherwise, they're encouraged to try again next time.
+# How It Works  
+*When a user purchases a ticket, the game generates a random 4-digit number. If the user's ticket matches the generated number under certain conditions, they win; otherwise, they're encouraged to try again next time.
 
 Game Rules : 
 Each ticket purchased generates a unique 4-digit number.
